@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Whack A Mole</string>
+    <string name="start_button"> Start </string>
+    <string name="settings_button">Settings</string>
+    <string name="time_setter_label">Time to end game(seconds)</string>
+    <string name="grass_colour">#00FF00</string>
+    <string name="time_initialize">60</string>
+</resources>
